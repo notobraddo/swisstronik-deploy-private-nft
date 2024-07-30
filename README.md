@@ -1,15 +1,5 @@
 # Swisstronik Tesnet Techinal Task 5 (Deploy Private NFT)
 
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
-
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
-```
-
 ## Steps
 
 ### 1. Clone Repository
@@ -125,10 +115,3 @@ git branch -M main
 ```bash
 git push -u origin main
 ```
-
-by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
-
-//0x5cED43F3224e3F7C7EFA6ABdE9A960A44E3B2dD9// ignore this
